@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A desperate-for-fame traveler attempts an increasingly dangerous series of viral challenges for TikTok views, culminating in the \"Blackout Challenge\" that lives up to its name permanently.",
     "long": ""
   },
   "death_type": "Viral Challenge",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Going viral isn't always a good thing."
 }
